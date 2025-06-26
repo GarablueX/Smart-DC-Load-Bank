@@ -77,11 +77,7 @@ All real-time parameters — like **voltage**, **current**, **PWM duty cycle**, 
 
 ---
 
-## 📷 Screenshot (Simulation)
 
-> *(You can add a screenshot of your Proteus simulation and LCD display here)*
-
----
 
 ## 📜 License
 
