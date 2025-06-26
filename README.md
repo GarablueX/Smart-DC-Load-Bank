@@ -31,7 +31,7 @@ All real-time parameters — like **voltage**, **current**, **PWM duty cycle**, 
 |----------------------|-----------------------------------------------------------------------------|
 | 🔌 **Load Control**    | PWM-driven MOSFET simulates variable resistive load                         |
 | ⚡ **Voltage Sensing** | Analog voltage divider read by ADC (RA0)                                   |
-| 🔄 **Current Sensing** | Current measured via **0.1Ω shunt resistor**, calculated in software       |
+| 🔄 **Current Sensing** | Current measured via **10Ω shunt resistor**, calculated in software       |
 | 📉 **Duty Cycle Display** | Real-time **PWM duty (%)** shown on LCD                                   |
 | 💡 **LCD Feedback**     | 16x2 LCD displays **Voltage (V)**, **Current (A)**, **Duty (%)**, **Power (W)** |
 | 🎛️ **User Controls**    | Two buttons (RC6/RC7) to increase/decrease PWM (load level)                |
